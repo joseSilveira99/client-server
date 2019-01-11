@@ -1,1 +1,1 @@
-# client-server
+# npm install and npm install -g bower
